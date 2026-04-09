@@ -1,3 +1,5 @@
+cols:1;
+max-char:30;
 I8,A
 ZN
 q490
@@ -7,8 +9,11 @@ JF
 ZT
 Q240,25
 N
+[ETQ1]
 A481,209,2,3,1,1,N,"DESCRICAO"
 B166,162,2,1B,1,2,102,N,"EAN"
 A150,55,2,2,1,1,N,"EAN"
 A481,115,2,1,2,2,N,"VALOR"
+[/ETQ1]
+[RODAPE]
 P1
